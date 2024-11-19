@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Karel Dipinaar"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1728214509958,
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/facebookuser_122121132818424384",
+  "magic_words": [
+    
+  ]
+}
